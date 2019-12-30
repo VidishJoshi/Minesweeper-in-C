@@ -26,7 +26,7 @@ It would be great for this project to have that feature.
 
 ## Authors
 
-* **Vidish Joshi** - [PurpleBooth](https://github.com/VidishJoshi)
+* **Vidish Joshi** - [Profile](https://github.com/VidishJoshi)
 
 Thank you to all and any contributors.
 
