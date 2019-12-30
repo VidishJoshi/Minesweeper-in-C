@@ -1,13 +1,13 @@
 # Minesweeper-in-C
 A basic project written in C which implements the popular game MINESWEEPER.
 
-##Getting Started
+###Getting Started
 This is a C project. All you need to have is GCC compiler pre-installed in your system. Just download this project and and you are ready to go.
 
 ### Prerequisites
 C Compiler on your system
 
-##Running the Tests
+####Running the Tests
 This is a menu driven project whose output will be shown in the terminal window only. It has easy to understand UI, so much thought is not needed to be given to run the tests. Just follow the options on your screen :)
 
 ##Contribution
