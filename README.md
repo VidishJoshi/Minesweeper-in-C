@@ -10,9 +10,14 @@ This is a C project. All you need to have is GCC compiler pre-installed in your 
 
 C Compiler on your system
 
+
 ### Running the Tests
 
 This is a menu driven project whose output will be shown in the terminal window only. It has easy to understand UI, so much thought is not needed to be given to run the tests. Just follow the options on your screen :)
+
+### Running the Code
+
+As mentioned this is a menu driven project and therefore you will have to log-in or sign-up before playing the game. You can sign-up by creating a new ID or you can login for the moment using USERNAME : admin and PASSWORD : admin
 
 ## Contributions
 
