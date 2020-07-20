@@ -5,7 +5,7 @@ A basic project written in C which implements the popular game MINESWEEPER.
 ## Features
 
 * Minesweeper written in C
-* Menu driven attractive and catchy GUI
+* Menu driven GUI implemented in terminal.
 * Login and Signup system for existing and new players
 * Point system for all player
 * Track of mines left
